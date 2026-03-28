@@ -1,0 +1,8 @@
+# username:password:last:first:groups
+user01:password01:Last01:First01:group01
+user02:password02:Last02:First02:group02
+user03:password03:Last03:First03:-
+user04:password04:Last04:First04:group01
+user05:password05:Last05:First05:group02
+user06:password06:Last06:First06:group01,group02
+user07:password07:Last07:First07:-
